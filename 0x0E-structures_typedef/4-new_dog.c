@@ -38,8 +38,7 @@ char *_strcopy(char *dest, char *src)
 }
 
 /**
- * new_dog - a function that creates a new dognew_dog - a function that creates a new dog
- *
+ * new_dog - a function that creates a new dog
  * @name: name of dog
  * @owner: dog owner
  *
